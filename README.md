@@ -1,4 +1,18 @@
-# React + Vite
+# Portfolio
+
+This is my portfolio for my second year of studies at Noroff.
+
+  <img src="/src/assets/preview.png"  />
+
+[Hosted Demo](https://splendorous-bubblegum-f34f70.netlify.app)
+
+## Built With
+
+- [React.js](https://reactjs.org/)
+- [Vite.js](https://vitejs.dev/)
+- [Chakra UI](https://chakra-ui.com/)
+
+##### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
