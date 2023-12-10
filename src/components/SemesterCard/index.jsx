@@ -1,9 +1,10 @@
 import React from "react";
 import { SiteCard } from "../SiteCard";
+import semesterProject2_screenshot from "../../assets/semesterProject2_screenshot.png";
 export function SemesterCard() {
   return (
     <SiteCard
-      image={"/src/assets/semesterProject2_screenshot.png"}
+      image={semesterProject2_screenshot}
       desc={
         "This was my second semester project for my frontend degree from noroff. We were to use what we have learned so far in our studies and apply it to the project. The site is an auction site, it was created using bootstrap, and a given api."
       }
